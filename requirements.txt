@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 numpy 
 pandas==2.15 ##Updated in master branch
+=======
+numpy==1.15.2 ## Conflict
+pandas==1.0.3 ## Conflict
+>>>>>>> Feature1
 scikit_learn==0.20.3
 joblib==0.13.2
 sqlalchemy
